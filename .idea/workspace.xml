@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa8c412-2b51-4e8c-9129-42e862e9fa72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/calculator/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/calculator/pe/caichihua/calculator/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_api/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_api/pe/caichihua/mathapi/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib/impl/MathIntegerOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/ConsumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib/MathIntegerOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib/impl/AdditionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib/impl/SubstractionOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/PredicateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/PredicateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/simple_deps/math_lib/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/simple_deps/math_lib/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib/impl/MathIntegerOperation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/simple_deps/math_lib/pe/caichihua/mathlib" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ConsumerApp">
     <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.ConsumerApp" />
